@@ -1,0 +1,23 @@
+{
+  "matric_number": "STU001",
+  "full_name": "Amina Bello",
+  "department": "Computer Science",
+  "academic_year": 2026,
+  "semester": "First",
+  "results": [
+    {
+      "course_code": "CSC301",
+      "course_title": "Database Systems",
+      "credit_units": 3,
+      "score": 82.5,
+      "status": "Published"
+    },
+    {
+      "course_code": "CSC305",
+      "course_title": "Data Structures",
+      "credit_units": 3,
+      "score": 74.0,
+      "status": "Published"
+    }
+  ]
+}
